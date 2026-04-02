@@ -1,6 +1,6 @@
 # Gestão de Condomínio
 
-sistema web para gerenciamento de consulta e reclamacoes de moradores em condominio
+Sistema web para gerenciamento de reclamações e sugestões de moradores em condomínio.
 
 ## 📌 Objetivo
 Centralizar e organizar o registro de reclamações e sugestões de moradores em condomínio.
@@ -10,7 +10,7 @@ Centralizar e organizar o registro de reclamações e sugestões de moradores em
 - Login de usuários  
 - Registro de reclamações  
 - Acompanhamento de status  
--historico de solicitacoes 
+- Histórico de solicitações  
 
 ## 🛠️ Tecnologias
 - Frontend: HTML, CSS, JavaScript  
