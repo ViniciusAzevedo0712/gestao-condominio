@@ -10,7 +10,7 @@ Centralizar e organizar o registro de reclamações e sugestões de moradores em
 - Login de usuários  
 - Registro de reclamações  
 - Acompanhamento de status  
--histórico de solicitações
+- histórico de solicitações
 
 ## 🛠️ Tecnologias
 - Frontend: HTML, CSS, JavaScript  
